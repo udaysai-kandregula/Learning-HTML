@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+body {
+  background-color: snow;
+}
+.main-heading {
+  color: indigo;
+  font-size: 50px;
+}
+.main-subtitle {
+  color: gray;
+}
+.team {
+  width: 256px;
+}
+#anna {
+  background-color: darkcyan;
+  color: beige;
+}
+#anna h2,
+h3 {
+  color: honeydew;
+}
+
+#harry {
+  background-color: cornsilk;
+}
+#harry h2,
+h3 {
+  color: darkslategray;
+}
+#sofia {
+  background-color: dodgerblue;
+}
+#sofia h2,
+h3 {
+  color: lightcyan;
+}
